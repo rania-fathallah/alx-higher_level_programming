@@ -10,4 +10,3 @@ def best_score(a_dictionary):
                 leader = i
         return leader
     return None
-     
