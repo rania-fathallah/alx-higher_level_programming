@@ -11,4 +11,5 @@ def best_score(a_dictionary):
                 score = a_dictionary[i]
                 leader = i
         return leader
+    return None
      
